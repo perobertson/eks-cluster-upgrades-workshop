@@ -60,7 +60,7 @@ spec:
     artifactRepository:
       s3:
         bucket: my-tf-test-bucket-fbd01f6c-790d-5fc7-748d-d1909ab8ea33
-        region: 
+        region: us-east-1
         endpoint: s3.amazonaws.com
     workflow:
       serviceAccount:
